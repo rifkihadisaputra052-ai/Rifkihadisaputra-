@@ -1,0 +1,48 @@
+/* Warna latar belakang seluruh halaman */
+body {
+  background-color: #f0f8ff; /* biru muda lembut */
+  color: #333; /* warna teks utama abu gelap */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Warna pada header */
+header {
+  background-color: #1e90ff; /* biru cerah */
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Warna untuk bagian utama */
+main {
+  background-color: #ffffff; /* putih */
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Warna tombol */
+button {
+  background-color: #ff6347; /* oranye kemerahan */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #ff4500; /* lebih gelap saat di-hover */
+}
+
+/* Warna pada footer */
+footer {
+  background-color: #1e1e1e; /* hitam abu */
+  color: #f5f5f5;
+  text-align: center;
+  padding: 15px;
+}
